@@ -1,0 +1,15 @@
+body {
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+  background-color: rgb(24, 24, 42); 
+}
+
+.main-container{
+  width: 500px;
+  height: 300px;
+  background-color: white;
+}
+
+
+.header{
+  background-color: #F55A5A;
+}
